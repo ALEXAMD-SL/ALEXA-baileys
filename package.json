@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vanzxysenpai/vanzxybaileys.git"
+    "url": "git+https://github.com/ALEXAMD-SL/ALEXA-baileys.git"
   },
   "files": [
     "lib/**/*",
@@ -68,7 +68,7 @@
     "multi-device",
     "interactive-messages"
   ],
-  "homepage": "https://github.com/vanzxysenpai/vanzxybaileys#readme",
+  "homepage": "https://github.com/ALEXAMD-SL/ALEXA-baileys",
   "author": "Vanzxy",
   "license": "MIT",
   "dependencies": {
