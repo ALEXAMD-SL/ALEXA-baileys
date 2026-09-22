@@ -1,5 +1,5 @@
 {
-  "name": "@vanzxy/baileys",
+  "name": "@ALEXA/baileys",
   "version": "2.0.3",
   "description": "Enhanced Baileys fork by Vanzxy — based on @itsliaaa/baileys + @whiskeysockets/baileys with fixes for audio group status and clean media without newsletter button.",
   "type": "module",
